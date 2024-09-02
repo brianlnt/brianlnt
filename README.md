@@ -2,6 +2,11 @@
 💡 &nbsp; I'm a software developer, and an incoming MS in Computer Science student at Maharishi International University!\
 🎓 &nbsp; I graduated from Ho Chi Minh City University of Technology (Electrical And Electronic Engineering, Batch of 2022).
 
+![](https://github-readme-stats.vercel.app/api?username=nle-miu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nle-miu&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nle-miu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ## 🌐 How to reach out to me:
 <a href="https://www.linkedin.com/in/thinh-brian-le-87270a152/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
