@@ -3,22 +3,22 @@
 🎓 &nbsp; I graduated from Ho Chi Minh City University of Technology (Electrical And Electronic Engineering, Batch of 2022).
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nle-miu&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brianlnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nle-miu&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianlnt&theme=dark&hide_border=false" alt="GitHub Streak Stats" /><br/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nle-miu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 
 ## 🌐 How to reach out to me:
 <a href="https://www.linkedin.com/in/thinh-brian-le-87270a152/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:thinhle1199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://nle-miu.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://brianlnt.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 
 ## 💻 Tech Stack:
 
