@@ -16,8 +16,8 @@
 
 
 ## 🌐 How to reach out to me:
-<a href="https://www.linkedin.com/in/thinh-brian-le-87270a152/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:thinhle1199@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/brianle-lnt/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:brianle.lnt@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://brianlnt.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 
 ## 💻 Tech Stack:
