@@ -1,14 +1,17 @@
 ## 💫 About Me:
+💡 &nbsp; Hi folks, I'm a software engineer. \
+💡 &nbsp; Ideas -> code -> things people love
 <!-- 💡 &nbsp; I'm a software developer, and an incoming MS in Computer Science student at Maharishi International University!\ -->
-🎓 &nbsp; I graduated from Ho Chi Minh City University of Technology (Electrical And Electronic Engineering, Batch of 2022).
+<!-- 🎓 &nbsp; I graduated from Ho Chi Minh City University of Technology (Electrical And Electronic Engineering, Batch of 2022). -->
 
-<div align="center">
+ 
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brianlnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianlnt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
+</div>  -->
 
 
 <!-- ## 🌐 How to reach out to me:
